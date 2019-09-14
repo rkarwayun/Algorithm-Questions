@@ -1,2 +1,2 @@
 # Algorithm-Questions
-Repo of solutions to questions that I am solving online.
+Repo of solutions to NPTEL Algorithm course programming questions.
